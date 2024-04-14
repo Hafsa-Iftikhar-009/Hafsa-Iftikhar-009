@@ -1,37 +1,11 @@
 <!DOCTYPE html>
 <head>
     <title>My Resume</title>
-    <style>
-        body {
-            font-family: 'Times New Roman', Times, serif;
-            background-color: rgba(250, 200, 208, 0.719);
-            font-size: medium;
-            line-height: 1.6;
-            color: black;
-            margin: 1;
-            Padding: 20px;
-            border-width: 1;
-        }
-        h1 {
-            color: rgba(2, 2, 194, 0.726);
-            outline-color: silver;
-            font-weight: bolder;
-            
-        }
-p {
-    font-weight: lighter;
-}
-h4 {font-style: italic;
-    font-size: large;
-    font-weight: bold;}
-    </style>
 
 </head>
 <body>
-    <div style="text-align: center;">
     <h1>Hafsa Iftikhar</h1>
     <h4>Email: haffoiftikhar40@gmail.com | Location: Malaysia | Phone Number: 090078601 | <a href="https://www.linkedin.com/in/hafsaiftikhar009"> Linkedin Profile</a> </h4>
-    </div>
     <hr>
     <h1> Career Summary</h1>
     <p>Versatile and proactive customer service professional with two years of combined experience in various 
@@ -39,7 +13,6 @@ h4 {font-style: italic;
         communication. Seeking to leverage expertise in customer service and client management to contribute to 
         a dynamic team and drive exceptional customer experiences.</p>
         <hr>
-
     <h1>Work Experience</h1>
     <h4>Client Manager <br> Eminent Ecom Tx, US (Remote) | ( Jan 2023- Nov 2023) </h4>
     <ul>
