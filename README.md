@@ -1,7 +1,30 @@
 <!DOCTYPE html>
 <head>
     <title>My Resume</title>
-
+<style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background-color: rgba(250, 200, 208, 0.719);
+            font-size: medium;
+            line-height: 1.6;
+            color: black;
+            margin: 1;
+            Padding: 20px;
+            border-width: 1;
+        }
+        h1 {
+            color: rgba(2, 2, 194, 0.726);
+            outline-color: silver;
+            font-weight: bolder;
+            
+        }
+p {
+    font-weight: lighter;
+}
+h4 {font-style: italic;
+    font-size: large;
+    font-weight: bold;}
+    </style>
 </head>
 <body>
     <h1>Hafsa Iftikhar</h1>
