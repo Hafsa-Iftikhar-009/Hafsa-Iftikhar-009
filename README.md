@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <head>
     <title>My Resume</title>
-<style>
+
+    <style>
         body {
             font-family: 'Times New Roman', Times, serif;
             background-color: rgba(250, 200, 208, 0.719);
